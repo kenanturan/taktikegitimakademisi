@@ -28,8 +28,8 @@ Gerçek hayatta tehlikeli veya yasal olmayan faaliyetler için kullanılması am
 Her türlü soru, geri bildirim veya destek talepleriniz için:
 
 - **GitHub Issues** üzerinden konu açabilirsiniz  
-- E-posta: **kenan@example.com**  ← (burayı kendi mailinle değiştir)
-
+- E-posta: **knntrn1@yandex.com**
+  
 ---
 
 ## 🔒 Gizlilik
